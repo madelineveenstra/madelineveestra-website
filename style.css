@@ -42,8 +42,8 @@ a:hover, a:active {text-decoration:underline;}
 
 .thumb1, .thumb2, .thumb3, .thumb4 {float:left; margin-right:20px; width:220px; height:220px;}
 .thumb1 {background:url(images/img_projects_wikifashion.jpg) no-repeat;}
-.thumb2 {background:url(images/img_projects_lolapr.jpg) no-repeat;}
-.thumb3 {background:url(images/img_projects_meetup.jpg) no-repeat;}
+.thumb2 {background:url(images/img_projects_meetup.jpg) no-repeat;}
+.thumb3 {background:url(images/img_projects_lolapr.jpg) no-repeat;}
 .thumb4 {background:url(images/img_projects_qldtreasury.jpg) no-repeat;}
 
 .tag {position:absolute; padding:18px 0 0 10px; margin-left:-33px; width:49px; height:28px; color:#fff; background:url(images/tag.png);}
