@@ -1,0 +1,63 @@
+*{margin:0; padding:0;}
+
+body {background:#ebebeb; font-size:14px; color:#666; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;}
+p {padding:10px 0 10px 0;}
+h1 {font-size:30px; color:#619ac9; font-weight:bold; margin-bottom:10px;}
+h2, h3 {font-size:20px; color:#333; font-weight:bold;}
+h2 {margin-top:20px;}
+h2.contact {margin: 0 0 20px 0;}
+#secondary h2 {margin: 0 0 20px 0}
+h3, p.date {width:680px; font-weight:normal;}
+h3 {font-family:"Georgia", Baskerville, serif; font-size:20px; color:#666;}
+p.date {font-size:11px; margin:5px 0 5px 0; color:#999;}
+
+a:link, a:visited {color:#619AC9; text-decoration:none;}
+a:hover, a:active {text-decoration:underline;}
+
+
+#logo {margin:0 auto; width:960px; height:23px; background:url(images/madelineveenstra.png) top left no-repeat; margin-top:40px;}
+#social {width:284px; height:45px; background:url(images/bg_social.png) no-repeat; position:absolute; margin: -30px 0 0 675px; padding:6px 0 0 5px;}
+  
+.button {width:169px; height:47px; background:url(images/button-off.png);}
+.button:hover {background:url(images/button-on.png);}
+.button p {padding:15px 0 0 47px; color:#fff;}
+.button:hover p {color:#666;}
+
+.wrapper {margin:0 auto; width:960px;}
+
+#featured {background:#d2d3d6; padding:60px 20px 60px 20px; margin:40px 0 40px 0;}
+#secondary {background:#fff; float:left; margin-right:20px; padding:20px; width:560px; height:280px; box-shadow: 1px 1px 1px rgba(0,0,0,0.3);}
+#slider {float:left; width:340px; height:250px; background:#ccc;}
+#gallery {margin-top:20px;}
+
+#gallery img {margin: 0 16px 16px 0;}
+#gallery img:hover {background:#fff; opacity:0.4; filter:alpha(opacity=40);}
+#gallery img.last {margin: 0 0 16px 0;}
+
+.box {float:left; width:920px; height:220px; background:#fff; padding:20px; margin-top:20px; box-shadow:1px 1px 1px rgba(0,0,0,0.3);}
+.box:hover {background:#f9f9f9;}
+.box .last {margin-bottom:20px;}
+
+.content {float:left; width:680px;}
+
+.thumb1, .thumb2, .thumb3, .thumb4 {float:left; margin-right:20px; width:220px; height:220px;}
+.thumb1 {background:url(images/img_projects_wikifashion.jpg) no-repeat;}
+.thumb2 {background:url(images/img_projects_lolapr.jpg) no-repeat;}
+.thumb3 {background:url(images/img_projects_meetup.jpg) no-repeat;}
+.thumb4 {background:url(images/img_projects_qldtreasury.jpg) no-repeat;}
+
+.tag {position:absolute; padding:18px 0 0 10px; margin-left:-33px; width:49px; height:28px; color:#fff; background:url(images/tag.png);}
+#ribbon {position:absolute; margin-left:614px; margin-top:-6px;}
+#download {position:absolute; margin-left:710px; margin-top:70px; background:url(images/button-download-off.png) no-repeat; width:250px; height:45px; text-align:center; padding-top:13px;}
+#download:hover {background:url(images/button-download-on.png) no-repeat;}
+.col {width:50%; float:left;}
+.slidernav {position:absolute; margin-left:640px; margin-top:285px; width:35px; height:20px;}
+
+ul {list-style-type:demi; margin-left:20px;}
+li {margin-bottom:5px;}
+
+#secondary h2 {margin-bottom:8px;}
+
+#contact ul {list-style-type:none; margin-left:0;}
+#contact li {margin: 5px 0 5px 0;}
+#contact input, textarea {border-radius:5px; padding:10px; border:1px solid #ccc;}
