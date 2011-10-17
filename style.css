@@ -26,8 +26,9 @@ a:hover, a:active {text-decoration:underline;}
 .wrapper {margin:0 auto; width:960px;}
 
 #featured {background:#d2d3d6; padding:60px 20px 60px 20px; margin:40px 0 40px 0;}
-#secondary {background:#fff; float:left; margin-right:20px; padding:20px; width:560px; height:280px; box-shadow: 1px 1px 1px rgba(0,0,0,0.3);}
+#secondary {background:#fff; float:left; margin-right:20px; padding:20px; width:738px; height:280px; box-shadow: 1px 1px 1px rgba(0,0,0,0.3);}
 #slider {float:left; width:340px; height:250px; background:#ccc;}
+#photo {float:right; width:162px; height:320px;}
 #gallery {margin-top:20px;}
 
 #gallery img {margin: 0 16px 16px 0;}
